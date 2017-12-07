@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 6th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Zach Nolan 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment we worked hands on with JSON, AJAX, and API. The API allows the information we enter on our site to interact with TMDb's information.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The AJAX function is a behind the scenes kind of function, it allows our website to interact with servers to get the information we need onto our page.
+2. software companies release their APIs to developers to allow them to power their own products.
+3. JSON is an extention of the JavaScript scripting language. Web services and APIs use JSON format to provide public data because the data interchange is readable and user friendly. 
