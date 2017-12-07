@@ -13,8 +13,7 @@ Zach Nolan
 This assignment we worked hands on with JSON, AJAX, and API. The API allows the information we enter on our site to interact with TMDb's information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://zachnolan1.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. The AJAX function is a behind the scenes kind of function, it allows our website to interact with servers to get the information we need onto our page.
