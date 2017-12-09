@@ -102,7 +102,7 @@ $(document).ready(function(){
                  
                  *********************************Insert Code Below********************************************/                 
                 
-                $("#original_language").html(json.results[0].original);
+                $("#original_language").html(json.results[0].original_language);
 
 
                 //The following code retrieves the movie poster path from the JSON object retrieved from the TMDB 
